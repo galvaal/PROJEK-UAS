@@ -129,7 +129,7 @@ HURUF K
 
 ![huruf K](https://user-images.githubusercontent.com/115516730/211197720-a99f202e-dfb0-420d-881b-77c481b715fc.png)
 
-Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih
+Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih.
 
 
 
