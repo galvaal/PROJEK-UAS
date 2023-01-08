@@ -6,6 +6,10 @@
 
 # KELAS : TI.22.A.3
 
+# LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
+
+[Your Link Here](https://www.youtube.com/watch?v=WRlHHWFf4HU&feature=youtu.be)
+
 # Tugas membuat Package and Modul
 
 Tugas yang diberikan memiliki soal sebagai berikut
