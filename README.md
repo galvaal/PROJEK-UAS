@@ -105,10 +105,31 @@ Hapus data
 
 Maka OUTPUT yg didaptkan adalah
 
+HURUF T
 
+![huruf T](https://user-images.githubusercontent.com/115516730/211197627-a49c138d-4448-4010-ba41-efc57fb4c46c.png)
 
+HURUF C
 
+![huruf C](https://user-images.githubusercontent.com/115516730/211197639-99aaba6c-7431-4b96-a837-c8de88cf4d86.png)
 
+HURUF U
+
+![huruf U](https://user-images.githubusercontent.com/115516730/211197678-82f16a14-debf-476d-a133-999e1274c4bc.png)
+
+HURUF L
+
+![huruf L](https://user-images.githubusercontent.com/115516730/211197691-fbe34744-8414-4532-af96-2341a7c272a1.png)
+
+HURUF H
+
+![Huruf H](https://user-images.githubusercontent.com/115516730/211197710-5035281c-b848-4e95-9973-25e62d409c1b.png)
+
+HURUF K
+
+![huruf K](https://user-images.githubusercontent.com/115516730/211197720-a99f202e-dfb0-420d-881b-77c481b715fc.png)
+
+Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih
 
 
 
